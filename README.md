@@ -1,3 +1,1 @@
-git clone https://github.com/yourusername/projectname.git
-cd projectname
-npm install
+ ![Your GIF description](https://giphy.com/gifs/hello-beautiful-hi-3ov9jGVxSup5R7TfZC)
