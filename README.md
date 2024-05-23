@@ -47,7 +47,7 @@
 <body>
 
 <div class="container">
-  <img src="YOUR_PROFILE_PICTURE_URL" alt="Profile Picture" class="profile-pic">
+  <img src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg?w=740 alt="Profile Picture" class="profile-pic">
   <h1>Welcome to My GitHub!</h1>
   <p class="intro">Hey there! I'm [Your Name], a passionate developer who loves coding and creating innovative solutions. Check out my projects and feel free to connect with me!</p>
 
